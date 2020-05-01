@@ -1,4 +1,4 @@
-## ![160x160](.\Doc\160x160.png)
+## ![160x160](./Doc/160x160.png)
 
 [OneTween]( https://assetstore.unity.com/packages/slug/165223 
 ) is a more efficient and convenient animation tool. Designed for UGUI, what you see is what you get. 
