@@ -1,4 +1,4 @@
-## ![160x160](.\Doc\160x160.png)OneTween
+## ![160x160](.\Doc\160x160.png)
 
 [OneTween]( https://assetstore.unity.com/packages/slug/165223 
 ) is a more efficient and convenient animation tool. Designed for UGUI, what you see is what you get. 
@@ -24,7 +24,7 @@ The folder “Assets/OneTween” include all OneTween scripts. You can put OneTw
 
 ## Documents
 
-[PDF](./Docs/README.pdf)
+[PDF](.\Doc\README.pdf)
 
 ## Release Note
 
